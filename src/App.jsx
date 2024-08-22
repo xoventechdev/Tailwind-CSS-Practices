@@ -23,4 +23,6 @@ function App() {
   );
 }
 
+// 22 Aug 2024 : No work activitys
+
 export default App;
